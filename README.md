@@ -1,7 +1,7 @@
 # free-for-student
 > A list of developers tools &amp; services which are free for students. This repo will also contains list of free tier services.
 
-
+#### Show some :heart: and star(:star:) the repo to support this work.
 
 ## Student specific offers
 
@@ -38,10 +38,9 @@ Using jetbrains student offer, you can use all paid IDEs/tools from Jetbrains fo
 
 *Free professional developement course offerings:*
 
-- [DataCamp]()
-- [Pluralsight]()
-- [Linkedin Learning]()
-- 
+- [DataCamp](https://www.datacamp.com/) - Free 2 months of premium subscription.
+- [Pluralsight](https://www.pluralsight.com/) - Free 3 months of premium subscription.
+- [Linkedin Learning](https://www.linkedin.com/learning/) - Free 3 months of premium subscription.
 
 
 
