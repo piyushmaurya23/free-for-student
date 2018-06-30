@@ -20,17 +20,17 @@ Following offers are available under Github student developer pack:
 
 Using jetbrains student offer, you can use all paid IDEs/tools from Jetbrains for free. IDEs include:
 
-- IntelliJ IDEA
-- PyCharm
-- WebStorm
-- PhpStorm
-- RubyMine
-- GoLand
-- AppCode
-- CLion
-- DataGrip
-- ReSharper
-- ReSharper C++
+- [IntelliJ IDE](https://www.jetbrains.com/idea/)
+- [PyCharm](https://www.jetbrains.com/pycharm) 
+- [WebStorm](https://www.jetbrains.com/webstorm)
+- [PhpStorm](https://www.jetbrains.com/phpstorm)
+- [RubyMine](https://www.jetbrains.com/ruby)
+- [GoLand](https://www.jetbrains.com/go)
+- [AppCode](https://www.jetbrains.com/objc/)
+- [CLion](https://www.jetbrains.com/clion)
+- [DataGrip](https://www.jetbrains.com/datagrip)
+- [ReSharper](https://www.jetbrains.com/resharper)
+- [ReSharper C++](https://www.jetbrains.com/resharper-cpp)
 
 
 
