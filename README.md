@@ -1,9 +1,11 @@
 # free-for-student
-> A list of paid developers tools &amp; services which are free for students. This repo will also contains list of free tier services.
+> A list of developers tools &amp; services which are free for students. This repo will also contains list of free tier services.
 
 
 
 ## Student specific offers
+
+Click on pack link to register for student offers and access all products mentioned under it.
 
 ### Github Student Developer Pack ([link](https://education.github.com/pack))
 
@@ -32,9 +34,20 @@ Using jetbrains student offer, you can use all paid IDEs/tools from Jetbrains fo
 - ReSharper
 - ReSharper C++
 
+### Visual Studio Dev Essentials ([link](https://visualstudio.microsoft.com/dev-essentials/))
+
+*Free professional developement course offerings:*
+
+- [DataCamp]()
+- [Pluralsight]()
+- [Linkedin Learning]()
+- 
+
 
 
 ## Free tier offers
 
 
+
+## Limited time offers
 
