@@ -4,7 +4,6 @@
 #### *Show some :heart: and star(:star:) the repo to support this work.*
 
 [![GitHub stars](https://img.shields.io/github/stars/piyushmaurya23/free-for-student.svg?style=social&label=Star)](https://github.com/piyushmaurya23/free-for-student)   [![GitHub followers](https://img.shields.io/github/followers/piyushmaurya23.svg?style=social&label=Follow)](https://github.com/piyushmaurya23)
-
 [![Twitter Follow](https://img.shields.io/twitter/follow/piyushmaurya23.svg?style=social)](https://twitter.com/piyushmaurya23)
 
 ## Student specific offers
